@@ -1,5 +1,5 @@
 public class A06_PrintCharacterPattern {
-  public static void main(String[] args) {
+  public static void main(String args[]) {
     int n = 4;
     char ch = 'A';
     for (int lines = 1; lines <= n; lines++) {
